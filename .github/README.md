@@ -9,7 +9,7 @@
  <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[˹https://github.com/isagzbyk46˼](https://t.me/gitaristmusic12)
+[˹🎸𝐆𝖎𝖙𝖆𝖗𝖎𝖘𝖙 𝕸𝖚𝖘𝖎𝖈🎸˼](https://t.me/gitaristmusic12)
 <h3 align="center">
 <a href="https://github.com/isagzbyk46"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
 
