@@ -1,5 +1,5 @@
 <h2 align="center">
-    「 https://github.com/isagzbyk46 」</h2>
+    「 🎸𝐆𝖎𝖙𝖆𝖗𝖎𝖘𝖙 𝕸𝖚𝖘𝖎𝖈🎸 」</h2>
 
 <p align="center">
   <img src="https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif">
