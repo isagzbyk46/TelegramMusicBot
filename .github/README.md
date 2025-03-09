@@ -11,7 +11,7 @@
 
 [˹мꝛ ᴄʜᴧᴍᴘᴜ˼](https://t.me/TheChampu)
 <h3 align="center">
-<a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
+<a href="https://github.com/isagzbyk46"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
@@ -26,13 +26,13 @@
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 </a></p>
 <p align="center">
-<a href="https://github.com/TheChampu/TelegramMusicBot"><img src="https://img.shields.io/github/stars/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/isagzbyk46/TelegramMusicBot"><img src="https://img.shields.io/github/stars/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/TheChampu/TelegramMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TheChampu/TelegramMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/isagzbyk46/TelegramMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheChampu/TelegramMusicBot/commits/"> <img src="https://img.shields.io/github/last-commit/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a></p>
+<a href="https://github.com/isagzbyk46/TelegramMusicBot/commits/"> <img src="https://img.shields.io/github/last-commit/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a></p>
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 <p align="center">
   <img src="https://github.com/TheChampu/ChampuMusic/blob/main/%F0%9F%96%A4%EA%9C%B1%E2%83%9F%D0%BD%CD%A5%CE%B9%CE%BD%CD%A3%CE%B1%CD%AB%D0%B8%D1%95%D0%BD%CF%85%F0%9F%96%A4.gif">
@@ -73,7 +73,7 @@ sudo pip3 install -U pip
 curl -fssL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 ```
 ```console
-git clone https://github.com/TheChampu/TelegramMusicBot &&  cd TelegramMusicBot
+git clone https://github.com/isagzbyk46/TelegramMusicBot
 ```
 ```console
 pip3 install -U -r requirements.txt
@@ -108,7 +108,7 @@ sudo pkill -9 python3
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
  
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheChampu/TelegramMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/isagzbyk46/TelegramMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -124,11 +124,11 @@ sudo pkill -9 python3
 
 
 <h3 align="center">
-    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
+    ─「 🎸𝐆𝖎𝖙𝖆𝖗𝖎𝖘𝖙 𝕸𝖚𝖘𝖎𝖈🎸 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TheChampu"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gitaristmusic12"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -136,7 +136,7 @@ sudo pkill -9 python3
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TheChampuStore"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gitaristmusic12"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -153,4 +153,4 @@ sudo pkill -9 python3
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="𝕮𝖍𝖆𝖒𝖕𝖚 Spotify" width="75%" />](https://open.spotify.com/user/31upue756rj6rctmc2gxdwvj5vri?si=hVSKCshlR3WUDi8qXBKyXw&utm_source=copy-link)
 
 <h3 align="center"> ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs  <h3 align="center">
-<a href="https://github.com/KashDaYash"> <img src="https://img.shields.io/badge/KashDaYash-black?style=for-the-badge&logo=github" alt="KashDaYash" /> </a> </h3>
+<a href="https://github.com/isagzbyk46"> <img src="https://img.shields.io/badge/KashDaYash-black?style=for-the-badge&logo=github" alt="KashDaYash" /> </a> </h3>
