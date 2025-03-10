@@ -11,7 +11,7 @@
 
 [˹🎸𝐆𝖎𝖙𝖆𝖗𝖎𝖘𝖙 𝕸𝖚𝖘𝖎𝖈🎸˼](https://t.me/gitaristmusic12)
 <h3 align="center">
-<a href="https://github.com/isagzbyk46"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
+<a href="https://github.com/isagzbyk46"><img alt="Website" src="https://graph.org/file/c78005efe2fffe70d3619-c209899967cf6d8bdf.jpg></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
@@ -26,7 +26,7 @@
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 </a></p>
 <p align="center">
-<a href="https://github.com/isagzbyk46/TelegramMusicBot"><img src="https://img.shields.io/github/stars/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/isagzbyk46/TelegramMusicBot"><img src="hhttps://graph.org/file/c78005efe2fffe70d3619-c209899967cf6d8bdf.jpg?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/TheChampu/TelegramMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/isagzbyk46/TelegramMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
