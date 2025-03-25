@@ -5,25 +5,25 @@ answer = []
 answer.extend(
     [
         InlineQueryResultArticle(
-            title="Pᴀᴜsᴇ",
+            title="Pᴀᴜsᴇ", "duraklat",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
-            title="Rᴇsᴜᴍᴇ",
+            title="Rᴇsᴜᴍᴇ", "devam"
             description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
-            title="Sᴋɪᴩ",
+            title="Sᴋɪᴩ", "atla",
             description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
             input_message_content=InputTextMessageContent("/skip"),
         ),
         InlineQueryResultArticle(
-            title="Eɴᴅ",
+            title="Eɴᴅ", "son",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
             input_message_content=InputTextMessageContent("/end"),
