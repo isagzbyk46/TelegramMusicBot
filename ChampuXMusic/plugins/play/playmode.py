@@ -27,6 +27,8 @@ async def playmode_(client, message: Message, _):
     else:
         Playtype = True
     buttons = playmode_users_markup(_, Direct, Group, Playtype)
-     response = await message.reply_text( "🎵 *Müzik Ayarları* 🎵\n\n" + _["play_22"].format(message.chat.title) + "\n\n🔹 Seçeneklerden birini seçin!",
-     reply_markup=InlineKeyboardMarkup(buttons),
-)
+    
+    response = await message.reply_text(
+        "🎵 *Müzik Ayarları* 🎵\n\n" + _["play_22"].format(message.chat.title) + "\n\n🔹 Seçeneklerden birini seçin!",
+        reply_markup=InlineKeyboardMarkup(buttons),
+    )
