@@ -40,18 +40,18 @@ LOGGERS = "\x4E\x61\x6E\x63\x79\x58\x52\x6F\x62\x6F\x74"  # connect errors api k
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TheChampu/TelegramMusicBot",
+    "https://github.com/isagzbyk46/TelegramMusicBot/edit/main/config.py",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/akaChampu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ShivanshuHUB")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/gitaristmusic12")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/gitaristmusic12")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
