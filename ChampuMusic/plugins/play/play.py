@@ -29,6 +29,9 @@ from ChampuMusic.plugins.misc.profile import update_song_count
     filters.command(
         [
             "play",
+            "oynat",
+            "voynat",
+            "çal",
             "vplay",
             "cplay",
             "cvplay",
