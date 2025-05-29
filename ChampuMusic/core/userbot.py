@@ -57,9 +57,9 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ShivanshuHUB")
-                await self.one.join_chat("TheShivanshu")
-                await self.one.join_chat("ChattingClub007")
+                await self.one.join_chat("GitaristMusic")
+                await self.one.join_chat("GitaristMusic")
+                await self.one.join_chat("GitaristMusic")
             except:
                 pass
             assistants.append(1)
@@ -93,8 +93,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("ChattingClub007")
-                await self.one.join_chat("TheShivanshu")
+                await self.two.join_chat("GitaristMusic")
+                await self.one.join_chat("GitaristMusic")
             except:
                 pass
             assistants.append(2)
@@ -135,8 +135,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("ShivanshuHUB")
-                await self.one.join_chat("TheShivanshu")
+                await self.four.join_chat("GitaristMusic")
+                await self.one.join_chat("GitaristMusic")
             except:
                 pass
             assistants.append(4)
@@ -156,8 +156,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("TheShivanshu")
-                await self.one.join_chat("ShivanshuHUB")
+                await self.five.join_chat("GitaristMusic")
+                await self.one.join_chat("GitaristMusic")
             except:
                 pass
             assistants.append(5)
